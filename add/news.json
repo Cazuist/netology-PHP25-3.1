@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Lorem ipsum",
+		"author": "Иван Иванов",
+		"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic quas magni, unde iusto voluptatibus culpa corporis nulla vel tenetur, reprehenderit totam incidunt non ratione. Sunt reiciendis ratione rerum architecto maiores praesentium error eius doloremque fuga, beatae commodi esse voluptate eaque dolorem velit, omnis hic repudiandae iure aliquid inventore culpa accusantium fugit. Praesentium consectetur nobis eius voluptas hic error, culpa neque numquam provident vel. Voluptas in iste vero, doloremque iure eligendi illum nesciunt quasi officia! Eveniet, quos vitae, quas porro, eos exercitationem consectetur alias possimus qui enim nam. Ipsa laudantium, corporis magnam, amet modi, laboriosam saepe eos alias, pariatur et eligendi.",
+		"date": "19 июля 2018 г."
+	},
+	{
+		"title": "Lorem ipsum",
+		"author": "Петр Петров",
+		"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque quam dicta iusto aut temporibus optio nihil ipsum corporis consequatur vitae nobis suscipit quia magnam ipsa, cum perferendis rerum earum aperiam atque. Nulla alias atque labore facere velit ad ut voluptas voluptatem est, nihil doloribus non libero vero minus quo odit veniam asperiores. Veritatis optio iste nostrum commodi officia nobis voluptates voluptate dolorum non, quos, id reiciendis, sapiente aspernatur magni quod, tenetur distinctio vitae corporis maiores debitis eos odit! Tenetur cumque autem accusantium cum laborum facere temporibus error omnis pariatur, maiores suscipit sequi laudantium nihil delectus animi aliquam voluptatum, alias quis.",
+		"date": "21 июля 2018 г."
+	},
+	{
+		"title": "Lorem ipsum",
+		"author": "Семен Семенов",
+		"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam quo numquam corrupti itaque debitis sapiente in ea dolorem consectetur, aspernatur architecto quia, labore. Doloribus inventore, ea at tenetur. Ex ad ratione eligendi voluptates, quod quaerat beatae, asperiores incidunt ipsam libero, reprehenderit earum. Magnam iure explicabo quisquam id, voluptatem fugiat reiciendis officia, numquam aliquid animi, nihil neque similique amet at esse, quod praesentium tenetur dolore omnis? Ad autem dolore earum numquam totam optio, quae iure doloremque nobis vel possimus assumenda, omnis, quis! Voluptate nemo neque voluptas deleniti tenetur consequuntur optio nesciunt officia, dignissimos nisi a incidunt voluptatem eius cumque corporis, quos.",
+		"date": "23 июля 2018 г."
+	},
+	{
+		"title": "Lorem ipsum",
+		"author": "Пушкин А.С.",
+		"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure commodi est harum perferendis, nobis reprehenderit, ipsa assumenda, modi maiores quibusdam quisquam molestiae ratione omnis atque! Veritatis aspernatur perferendis perspiciatis, mollitia saepe nostrum rerum. Expedita, cum, aut. At perspiciatis, reprehenderit facilis officiis id veniam, suscipit magnam libero rem? Rerum ex aperiam blanditiis soluta rem labore, nihil, repellendus quidem laborum voluptate praesentium repellat! Mollitia rerum deserunt optio, facere facilis debitis enim placeat odit, reprehenderit, est perferendis iure esse molestias nulla, doloribus a accusamus! Eveniet atque, quam praesentium deserunt magnam ex, nostrum natus optio distinctio voluptate. Adipisci esse, est dolorem illo, amet culpa.",
+		"date": "25 июля 2018 г."
+	}
+]
